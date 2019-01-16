@@ -9,6 +9,7 @@ import android.widget.TextView;
 public class DisplayMessageActivity extends AppCompatActivity {
 
     private static final String TAG = "DisplayMessageActivity";
+    // this is a change
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
