@@ -12,6 +12,8 @@ import android.widget.EditText;
  *
  *  MORE STUFF
  */
+
+//Michael 
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "MainActivity";
