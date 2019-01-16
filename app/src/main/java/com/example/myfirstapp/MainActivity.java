@@ -8,9 +8,9 @@ import android.view.View;
 import android.widget.EditText;
 
 /**
- *  Main Activity that sends the user input to the DisplayMessageActivty to display.
- *
- *  MORE STUFF
+ * Main Activity that sends the user input to the DisplayMessageActivty to display.
+ * <p>
+ * MORE STUFF
  */
 
 //Michael 
