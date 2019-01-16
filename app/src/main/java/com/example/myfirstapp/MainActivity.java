@@ -7,6 +7,11 @@ import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 
+/**
+ *  Main Activity that sends the user input to the DisplayMessageActivty to display.
+ *
+ *  MORE STUFF
+ */
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "MainActivity";
